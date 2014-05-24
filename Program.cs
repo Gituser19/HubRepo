@@ -11,6 +11,7 @@ namespace HelloWorld
             Console.WriteLine("This is my third change before push");
             Console.WriteLine("This is my fourth change before push");
             Console.WriteLine("change after push");
+            Console.WriteLine("second change after push");
 
             // Keep the console window open in debug mode.
             Console.WriteLine("Press any key to exit.");
